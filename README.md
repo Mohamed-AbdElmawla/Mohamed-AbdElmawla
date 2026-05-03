@@ -34,29 +34,24 @@ When I’m not shipping code, I’m coaching competitive-programming teams.
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics  📈
 
 <p align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mohamed-AbdElmawla&show_icons=true&hide_border=true"
-  alt="GitHub Stats"
-/>
+<!-- Profile details (contributions, stars, forks, issues, PRs) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-AbdElmawla&theme=default" alt="Profile Details" />
 
-<!-- Top Languages -->
+<!-- Top languages by repo count -->
 <br/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-AbdElmawla&layout=compact&hide_border=true"
-  alt="Most Used Languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-AbdElmawla&theme=default" alt="Top Languages by Repo" />
 
-<!-- Streak -->
+<!-- Top languages by commit -->
 <br/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-AbdElmawla&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-AbdElmawla&theme=default" alt="Top Languages by Commit" />
+
+<!-- Contribution streak, stars, followers … as trophies -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-AbdElmawla&theme=flat&no-frame=true&margin-w=5" alt="Trophies" />
 
 </p>
 
