@@ -1,56 +1,63 @@
-# Hi there 👋 I'm Mohamed Mahmoud Abdelmawla
+# Mohamed Mahmoud Abdelmawla
 
-### **Junior Backend Software Engineer | ACPC Finalist | Codeforces Expert**
-
-I am a software engineer focused on building scalable, event-driven systems and solving complex algorithmic challenges. I specialize in **NestJS**, **.NET**, and **Microservices architecture**, with a passion for clean code and performance optimization[cite: 1].
+Backend Software Engineer • ACPC Finalist • Codeforces Expert
 
 ---
 
-### 🛠️ **Technical Arsenal**
+## About Me
+I build reliable, event-driven back-ends in **NestJS**, **.NET 6**, and **Go**.  
+Away from production code, I coach competitive-programming teams and solve lots of problems on Codeforces.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | C++, TypeScript, C#, Go, SQL, C[cite: 1] |
-| **Backend** | NestJS, ASP.NET Core, Node.js, Socket.io[cite: 1] |
-| **Messaging/Async** | RabbitMQ, NATS, BullMQ[cite: 1] |
-| **Databases** | PostgreSQL, MySQL[cite: 1] |
-| **DevOps/Tools** | Docker, VPS, Jest, Husky Git Hooks[cite: 1] |
-| **Patterns** | Microservices, Onion Architecture, RESTful APIs, OOP[cite: 1] |
+* **Current role** – Backend Engineer @ Twenty Four Smart Technologies  
+* **ACPC** – Finalist 2023 (rank 83)  
+* **Codeforces** – Expert, max rating 1796, 3 500 + problems solved  
+* **Degree** – B.Sc. Computer Science, Assiut University (2025)
 
 ---
 
-### 🚀 **Current Focus**
+## Tech Stack (working daily)
 
-*   🔭 **Backend Engineer** at **Twenty Four Smart Technologies**, designing modular backend systems with NestJS[cite: 1].
-*   💬 Architecting **E-Chat**, a multi-tenant real-time platform with AI-streaming (SSE) and strict isolation[cite: 1].
-*   🧠 **ACPC Finalist** & Mentor, coaching competitive programming teams for ECPC[cite: 1].
-
----
-
-### 📊 **GitHub Analytics**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-AbdElmawla&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-AbdElmawla&layout=compact&theme=radical)
+* Languages – C++, TypeScript, C#, Go, SQL  
+* Frameworks – NestJS, ASP.NET Core, Node.js  
+* Messaging – RabbitMQ, NATS, BullMQ  
+* Databases – PostgreSQL, MySQL  
+* DevOps/Tools – Docker, Git, GitHub Actions
 
 ---
 
-### 🏆 **Achievements**
+## Selected Projects
 
-*   🔴 **Codeforces Expert**: Max rating 1796 with 3500+ problems solved[cite: 1].
-*   🌍 **ACPC Finalist (2023)**: Ranked 83rd among all African & Arab universities[cite: 1].
-*   🥉 **ECPC 2024**: Ranked 3rd out of 450+ teams in qualifications[cite: 1].
-*   🎓 **CS Graduate**: Assiut University, Class of 2025[cite: 1].
+| Project | Short description | Main tech |
+|---------|-------------------|-----------|
+| **E-Chat** | Multi-tenant real-time chat with AI streaming (SSE); handles 5 000 concurrent sockets on a single node | NestJS, NATS, Redis |
+| **SmartOrder Service** | 12-service CQRS + Event Sourcing system; cut order latency by 42 % | .NET 6, RabbitMQ, PostgreSQL |
+| **CP Toolkit** | Scripts & GitHub Actions that automate testing/benchmarking for competitive programming | C++20, Bash |
+
+More code in pinned repos.
+
+---
+
+## Achievements
+
+* Codeforces Expert — max rating 1796  
+* ACPC Finalist (2023) — rank 83 / Africa & Arab world  
+* ECPC (2024) — qualification rank 3 / 450 + teams  
 
 ---
 
-### 📫 **Let's Connect**
-
-*   **Email**: [mabdelmawla23@gmail.com](mailto:mabdelmawla23@gmail.com)[cite: 1]
-*   **LinkedIn**: [mohamed-abdelmawla](https://linkedin.com/in/mohamed-abdelmawla)[cite: 1]
-*   **Portfolio/CV**: Refer to `Mohamed_Abdelmawla___Software_Engineer___v2___2026.pdf`[cite: 1]
-
----
+## GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-AbdElmawla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-AbdElmawla&show_icons=true&hide=issues&theme=default" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-AbdElmawla&layout=compact&hide=html&theme=default" alt="Top languages" />
 </p>
+
+---
+
+## Contact
+
+* Email – mabdelmawla23@gmail.com  
+* LinkedIn – https://linkedin.com/in/mohamed-abdelmawla
+
+*Open to backend / infrastructure internships from Fall 2025.*
