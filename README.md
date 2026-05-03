@@ -8,8 +8,8 @@
 ---
 
 ## About Me
-I build reliable, event-driven back-ends in **NestJS** and **.NET**.  
-When I’m not shipping code, I coach competitive-programming teams.
+I build reliable, event-driven back ends with **NestJS** and **.NET**.  
+When I’m not shipping code, I’m coaching competitive-programming teams.
 
 * **Current role** – Backend Engineer @ Twenty Four Smart Technologies  
 * **ACPC** – Finalist 2023 (rank 83)  
@@ -18,7 +18,7 @@ When I’m not shipping code, I coach competitive-programming teams.
 
 ---
 
-## Tech Stack — Daily Drivers
+## Tech Stack – Daily Drivers
 * **Languages** C++, TypeScript, C#, Go, SQL  
 * **Frameworks** NestJS, ASP.NET Core, Node.js  
 * **Messaging** RabbitMQ, NATS, BullMQ  
@@ -40,22 +40,22 @@ When I’m not shipping code, I coach competitive-programming teams.
 
 <!-- GitHub Stats -->
 <img
-  src="https://github-readme-stats-rstaa-rickstaa.vercel.app/api?username=Mohamed-AbdElmawla&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true"
-  alt="GitHub Stats for Mohamed"
+  src="https://github-readme-stats.vercel.app/api?username=Mohamed-AbdElmawla&show_icons=true&hide_border=true"
+  alt="GitHub Stats"
 />
 
 <!-- Top Languages -->
 <br/>
 <img
-  src="https://github-readme-stats-rstaa-rickstaa.vercel.app/api/top-langs/?username=Mohamed-AbdElmawla&layout=compact&hide=html&hide_border=true"
-  alt="Most used languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-AbdElmawla&layout=compact&hide_border=true"
+  alt="Most Used Languages"
 />
 
 <!-- Streak -->
 <br/>
 <img
-  src="https://streak-stats.demolab.com?user=Mohamed-AbdElmawla&hide_border=true"
-  alt="GitHub contribution streak"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-AbdElmawla&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </p>
@@ -66,6 +66,6 @@ When I’m not shipping code, I coach competitive-programming teams.
 * **Email** mabdelmawla23@gmail.com  
 * **LinkedIn** [linkedin.com/in/mohamed-abdelmawla-851264218](https://www.linkedin.com/in/mohamed-abdelmawla-851264218)
 
-*Open to backend / infrastructure internships from Fall 2025.*
+*Open to backend / infrastructure internships starting Fall 2025.*
 
 <!-- End of README -->
