@@ -1,16 +1,16 @@
-# Mohamed Mahmoud Abdelmawla
+# Mohamed Abdelmawla
 
 Backend Software Engineer • ACPC Finalist • Codeforces Expert
 
 ---
 
 ## About Me
-I build reliable, event-driven back-ends in **NestJS**, **.NET 6**, and **Go**.  
-Away from production code, I coach competitive-programming teams and solve lots of problems on Codeforces.
+I build reliable, event-driven back-ends in **NestJS** and **.NET**.  
+Away from production code, I coach competitive-programming teams.
 
 * **Current role** – Backend Engineer @ Twenty Four Smart Technologies  
 * **ACPC** – Finalist 2023 (rank 83)  
-* **Codeforces** – Expert, max rating 1796, 3 500 + problems solved  
+* **Codeforces** – Expert, max rating 1796. 
 * **Degree** – B.Sc. Computer Science, Assiut University (2025)
 
 ---
@@ -22,18 +22,6 @@ Away from production code, I coach competitive-programming teams and solve lots 
 * Messaging – RabbitMQ, NATS, BullMQ  
 * Databases – PostgreSQL, MySQL  
 * DevOps/Tools – Docker, Git, GitHub Actions
-
----
-
-## Selected Projects
-
-| Project | Short description | Main tech |
-|---------|-------------------|-----------|
-| **E-Chat** | Multi-tenant real-time chat with AI streaming (SSE); handles 5 000 concurrent sockets on a single node | NestJS, NATS, Redis |
-| **SmartOrder Service** | 12-service CQRS + Event Sourcing system; cut order latency by 42 % | .NET 6, RabbitMQ, PostgreSQL |
-| **CP Toolkit** | Scripts & GitHub Actions that automate testing/benchmarking for competitive programming | C++20, Bash |
-
-More code in pinned repos.
 
 ---
 
@@ -58,6 +46,6 @@ More code in pinned repos.
 ## Contact
 
 * Email – mabdelmawla23@gmail.com  
-* LinkedIn – https://linkedin.com/in/mohamed-abdelmawla
+* LinkedIn – www.linkedin.com/in/mohamed-abdelmawla-851264218
 
 *Open to backend / infrastructure internships from Fall 2025.*
