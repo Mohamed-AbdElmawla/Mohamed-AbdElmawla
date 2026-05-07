@@ -29,8 +29,7 @@ When I’m not shipping code, I’m coaching competitive-programming teams.
 
 ## Achievements
 * Codeforces **Expert** — max rating 1796  
-* **ACPC Finalist 2023** — rank 83 (Africa & Arab world)  
-* **ECPC 2024** — qualification rank 3 / 450 + teams  
+* **ACPC Finalist 2023**
 
 ---
 
