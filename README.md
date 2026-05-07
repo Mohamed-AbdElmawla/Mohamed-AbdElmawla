@@ -54,6 +54,4 @@ When I’m not shipping code, I’m coaching competitive-programming teams.
 * **Email** mabdelmawla23@gmail.com  
 * **LinkedIn** [linkedin.com/in/mohamed-abdelmawla-851264218](https://www.linkedin.com/in/mohamed-abdelmawla-851264218)
 
-*Open to backend / infrastructure internships starting Fall 2025.*
-
 <!-- End of README -->
