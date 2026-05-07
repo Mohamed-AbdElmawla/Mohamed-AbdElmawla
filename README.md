@@ -12,7 +12,7 @@ I build reliable, event-driven back ends with **NestJS** and **.NET**.
 When I’m not shipping code, I’m coaching competitive-programming teams.
 
 * **Current role** – Backend Engineer @ Twenty Four Smart Technologies  
-* **ACPC** – Finalist 2023 (rank 83)  
+* **ACPC** – Finalist 2023
 * **Codeforces** – Expert, max rating 1796  
 * **Degree** – B.Sc. Computer Science, Assiut University (2025)
 
@@ -24,12 +24,6 @@ When I’m not shipping code, I’m coaching competitive-programming teams.
 * **Messaging** RabbitMQ, NATS, BullMQ  
 * **Databases** PostgreSQL, MySQL  
 * **DevOps / Tools** Docker, Git, GitHub Actions  
-
----
-
-## Achievements
-* Codeforces **Expert** — max rating 1796  
-* **ACPC Finalist 2023**
 
 ---
 
